@@ -5,8 +5,3 @@ strong
 
 from
 yes
-
-Rsasd
-Sda
-sad
-sadadsaddaaaaaaddddaaaaaaaaadfs
